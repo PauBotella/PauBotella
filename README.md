@@ -1,8 +1,6 @@
-<img src="https://github.com/PauBotella/PauBotella/blob/main/Profile.gif"/>
-
 <div align="center">
   <img src="https://github.com/PauBotella/PauBotella/blob/main/Profile.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauBotella&layout=compact&langs_count=7&theme=dracula"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauBotella&langs_count=8)](https://github.com/PauBotella/github-readme-stats)
 </div>
 
 <!--
