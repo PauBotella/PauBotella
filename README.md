@@ -1,6 +1,6 @@
 <img src="https://github.com/PauBotella/PauBotella/blob/main/Profile.gif"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=PauBotella&layout=compact&langs_count=7&theme=merlko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=PauBotella&layout=compact&langs_count=7&theme=dracula"/>
 <!--
 **PauBotella/PauBotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
