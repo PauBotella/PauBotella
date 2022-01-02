@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/PauBotella/PauBotella/blob/main/Profile.gif"/>
+
 
 <!--
 **PauBotella/PauBotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
