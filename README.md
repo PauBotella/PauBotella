@@ -1,6 +1,9 @@
 <img src="https://github.com/PauBotella/PauBotella/blob/main/Profile.gif"/>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauBotella)](https://github.com/PauBotella/github-readme-stats)
+
+
 <!--
 **PauBotella/PauBotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
