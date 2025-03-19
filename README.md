@@ -1,16 +1,15 @@
+<!-- <img src="/resources/hi.gif" width="20">  -->
+<p>   Hi, I am  <a href="https://github.com/PauBotella">@PauBotella</a></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauBotella&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
-  <!--
-**PauBotella/PauBotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>   🎓  Math and Computer Science Student
+</p>
 
-Here are some ideas to get you started:
+<p align="right">
+  <a href= "https://www.paubotella.github.io"><img src="/assets/web.png" style="width: 32px; height: 32px"/></a>
+  &nbsp;
+  <a href= "https://www.linkedin.com/in/antoniopelusi/"><img src="/assets/linkedin.png" style="width: 32px; height: 32px"/></a>
+  &nbsp;
+  <a href= "mailto:antoniopelusi2000@gmail.com"><img src="/assets/gmail.png" style="width: 32px; height: 32px"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="/assets/waves.svg" width="100%" height="150">
