@@ -1,5 +1,5 @@
-<!-- <img src="/resources/hi.gif" width="20">  -->
-<p>   Hi, I am  <a href="https://github.com/PauBotella">@PauBotella</a></p>
+<!--   -->
+<p> <img src="/assets/hi.gif" width="20">  Hi, I am  <a href="https://github.com/PauBotella">@PauBotella</a></p>
 
 <p>   🎓  Math and Computer Science Student
 </p>
