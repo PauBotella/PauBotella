@@ -1,7 +1,7 @@
 <!--   -->
 <p> <img src="/assets/hi.gif" width="20">  Hi, I am  <a href="https://github.com/PauBotella">@PauBotella</a></p>
 
-<p>   🎓  Math and Computer Science Student
+<p>   🎓  Senior HTML engineer
 </p>
 
 <p align="right">
